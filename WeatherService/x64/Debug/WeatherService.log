@@ -1,2 +1,21 @@
-﻿  WeatherService.cpp
-  WeatherService.vcxproj -> C:\Users\maxjt\source\repos\WeatherService\x64\Debug\WeatherService.exe
+﻿  JsonService.cpp
+  pugixml.cpp
+  Service.cpp
+  Weather.cpp
+  WeatherService.cpp
+C:\Users\maxjt\source\repos\WeatherService\WeatherService\WeatherService.cpp(7,5): error C2065: JsonService: необъявленный идентификатор
+C:\Users\maxjt\source\repos\WeatherService\WeatherService\WeatherService.cpp(7,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "js"
+C:\Users\maxjt\source\repos\WeatherService\WeatherService\WeatherService.cpp(7,17): error C2065: js: необъявленный идентификатор
+C:\Users\maxjt\source\repos\WeatherService\WeatherService\WeatherService.cpp(8,5): error C2065: Weather: необъявленный идентификатор
+C:\Users\maxjt\source\repos\WeatherService\WeatherService\WeatherService.cpp(8,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "w"
+C:\Users\maxjt\source\repos\WeatherService\WeatherService\WeatherService.cpp(8,13): error C2065: w: необъявленный идентификатор
+C:\Users\maxjt\source\repos\WeatherService\WeatherService\WeatherService.cpp(8,17): error C2065: js: необъявленный идентификатор
+C:\Users\maxjt\source\repos\WeatherService\WeatherService\WeatherService.cpp(10,5): error C2065: XmlService: необъявленный идентификатор
+C:\Users\maxjt\source\repos\WeatherService\WeatherService\WeatherService.cpp(10,16): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "xs"
+C:\Users\maxjt\source\repos\WeatherService\WeatherService\WeatherService.cpp(10,16): error C2065: xs: необъявленный идентификатор
+C:\Users\maxjt\source\repos\WeatherService\WeatherService\WeatherService.cpp(11,5): error C2065: Weather: необъявленный идентификатор
+C:\Users\maxjt\source\repos\WeatherService\WeatherService\WeatherService.cpp(11,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "w"
+C:\Users\maxjt\source\repos\WeatherService\WeatherService\WeatherService.cpp(11,13): error C2065: w: необъявленный идентификатор
+C:\Users\maxjt\source\repos\WeatherService\WeatherService\WeatherService.cpp(11,17): error C2065: xs: необъявленный идентификатор
+  XmlService.cpp
+  Создание кода...
